@@ -1,0 +1,8 @@
+ru\origin\myproject1\controllers\BookController.class
+ru\origin\myproject1\models\Person.class
+ru\origin\myproject1\controllers\PeopleController.class
+ru\origin\myproject1\models\Book.class
+ru\origin\myproject1\dao\PersonDAO.class
+ru\origin\myproject1\config\SpringConfig.class
+ru\origin\myproject1\dao\BookDAO.class
+ru\origin\myproject1\config\MySpringMvcDispatcherSerlvetIntitializer.class
